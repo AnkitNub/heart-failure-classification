@@ -31,3 +31,6 @@ The following features serve as the basis for discerning the presence or absence
 5) Feature Importance:
 * Identify and analyze important features in the dataset.
 * Visualize the importance of features using appropriate plots.
+
+### View Notebbok : 
+(https://nbviewer.org/github/AnkitNub/heart-failure-classification/blob/main/Heart-failure%28self%20project%29.ipynb)
